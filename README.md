@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ric-Lord
-- 👀 I’m interested in ... many things
+- 👀 I’m interested in ... engineering
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...anything i can
 - 📫 How to reach me ...ricardo.lordelo@gmail.com
